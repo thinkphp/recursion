@@ -8,5 +8,6 @@
 ## Demo
 0. Recursion https://replit.com/@thinkphp/Recursion
 1. Four Number https://replit.com/@thinkphp/Recursion#main.py
-2. Sum of digits https://replit.com/@thinkphp/Recursion#sum.py
-3. Factorial with Tail https://replit.com/@thinkphp/Recursion#fact.py
+2. Four Number in C Language https://replit.com/@thinkphp/Recursion#four.c
+3. Sum of digits https://replit.com/@thinkphp/Recursion#sum.py
+4. Factorial with Tail https://replit.com/@thinkphp/Recursion#fact.py
