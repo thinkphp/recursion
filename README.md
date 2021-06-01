@@ -12,4 +12,5 @@
 3. Sum of digits https://replit.com/@thinkphp/Recursion#sum.py
 4. Factorial with Tail https://replit.com/@thinkphp/Recursion#fact.py
 5. Four File in Python https://replit.com/@thinkphp/Recursion#four_file.py
-6. Four File in C++ https://replit.com/@thinkphp/Recursion#four_file.c
+6. Four File in C https://replit.com/@thinkphp/Recursion#four_file.c
+7. Four File in C++ https://replit.com/@thinkphp/Recursion#four_file.cpp
