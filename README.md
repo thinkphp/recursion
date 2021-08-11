@@ -14,3 +14,5 @@
 5. Four File in Python https://replit.com/@thinkphp/Recursion#four_file.py
 6. Four File in C https://replit.com/@thinkphp/Recursion#four_file.c
 7. Four File in C++ https://replit.com/@thinkphp/Recursion#four_file.cpp
+8. Read a Matrix Recursively in Ruby https://ideone.com/vCLPQV
+9. 8. Read a Matrix Recursively Python in https://ideone.com/YTM2xp
